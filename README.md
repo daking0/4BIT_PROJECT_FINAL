@@ -28,11 +28,17 @@
 ## 개발 환경
 
 > 서버
+> 
 	-Spring Boot
 	-Spring Security
-	-OAU
+	-OAUTH2.0
 >클라이언트
+>
+	-REACT
+	-REDUX
+	-REACTSTRAP
+	-HTML, CSS,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Njc3MzcyMiwyMTI0OTY4Njk3LC00MT
+eyJoaXN0b3J5IjpbMTMyNjEzOTIxOCwyMTI0OTY4Njk3LC00MT
 YxNTU3NzksLTE5NzU5Nzk1OTddfQ==
 -->
