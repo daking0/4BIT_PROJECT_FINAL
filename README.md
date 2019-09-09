@@ -44,7 +44,6 @@
 ## 개발자
 Project 4bit
 팀장 : 이중호, 홍다경
-
 팀원 : 류혜영, 이채연, 조성현, 주영빈, 황서영![enter image description here](https://lh3.googleusercontent.com/70vL65-iUczmquVSM0nZctImXOafHGZZIqtyoqt-urHpHADuXBevYSShr9arLuoJWE-uqhKqb8U "메인-상")
 
 ![enter image description here](https://lh3.googleusercontent.com/heM1JXUFY4XuhaWoXqFS0GQLdfRKMBNgMJsmhGSy68gWSoT3sb67SDWObQalTTWmP-DV2ULRl2A "메인-하")
@@ -64,7 +63,7 @@ Project 4bit
 
 ![enter image description here](https://lh3.googleusercontent.com/sjbz8dWkkLdxmPdVcGdqvYiBkdeeu5u46ni53OyiQF3xsxu80-x2z6o_WMN1eUEd4aJ-dPfNZ5E "로드맵")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjEzODM4MSwtNTE5MDQ1MTgzLC0yMD
-Q3ODY5MjU1LDEwOTI1ODg2MCwtMTc5NDExMTY0NSwyMTI0OTY4
-Njk3LC00MTYxNTU3NzksLTE5NzU5Nzk1OTddfQ==
+eyJoaXN0b3J5IjpbNTI4MzQ4MTAxLC01MTkwNDUxODMsLTIwND
+c4NjkyNTUsMTA5MjU4ODYwLC0xNzk0MTExNjQ1LDIxMjQ5Njg2
+OTcsLTQxNjE1NTc3OSwtMTk3NTk3OTU5N119
 -->
