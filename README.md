@@ -32,6 +32,8 @@
 	-Spring Boot
 	-Spring Security
 	-OAUTH2.0
+	-MYSQL
+	
 >클라이언트
 >
 	-JS ES6
@@ -39,6 +41,6 @@
 	-REDUX
 	-REACTSTRAP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQxMTE2NDUsMjEyNDk2ODY5NywtND
-E2MTU1Nzc5LC0xOTc1OTc5NTk3XX0=
+eyJoaXN0b3J5IjpbMTA5MjU4ODYwLC0xNzk0MTExNjQ1LDIxMj
+Q5Njg2OTcsLTQxNjE1NTc3OSwtMTk3NTk3OTU5N119
 -->
