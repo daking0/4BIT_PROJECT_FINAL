@@ -32,7 +32,9 @@
 	-Spring Boot
 	-Spring Security
 	-OAUTH2.0
+	-RESTFUL API
 	-MYSQL
+	
 	
 >클라이언트
 >
@@ -40,7 +42,9 @@
 	-REACT
 	-REDUX
 	-REACTSTRAP
+	-RESTFUL API
 
+	
 ## 개발자
 Project 4bit
 팀장 : 이중호, 홍다경
@@ -63,7 +67,8 @@ Project 4bit
 
 ![enter image description here](https://lh3.googleusercontent.com/sjbz8dWkkLdxmPdVcGdqvYiBkdeeu5u46ni53OyiQF3xsxu80-x2z6o_WMN1eUEd4aJ-dPfNZ5E "로드맵")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MzQ4MTAxLC01MTkwNDUxODMsLTIwND
-c4NjkyNTUsMTA5MjU4ODYwLC0xNzk0MTExNjQ1LDIxMjQ5Njg2
-OTcsLTQxNjE1NTc3OSwtMTk3NTk3OTU5N119
+eyJoaXN0b3J5IjpbNjk2ODA3MTczLDUyODM0ODEwMSwtNTE5MD
+Q1MTgzLC0yMDQ3ODY5MjU1LDEwOTI1ODg2MCwtMTc5NDExMTY0
+NSwyMTI0OTY4Njk3LC00MTYxNTU3NzksLTE5NzU5Nzk1OTddfQ
+==
 -->
