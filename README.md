@@ -23,7 +23,16 @@
 
 	-시험, 과제 출제 및 관리
 	-학생 현황 관리
+	
+
+## 개발 환경
+
+> 서버
+	-Spring Boot
+	-Spring Security
+	-OAU
+>클라이언트
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDk2ODY5NywtNDE2MTU1Nzc5LC0xOT
-c1OTc5NTk3XX0=
+eyJoaXN0b3J5IjpbLTY3Njc3MzcyMiwyMTI0OTY4Njk3LC00MT
+YxNTU3NzksLTE5NzU5Nzk1OTddfQ==
 -->
