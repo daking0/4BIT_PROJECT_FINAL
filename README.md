@@ -41,8 +41,12 @@
 	-REDUX
 	-REACTSTRAP
 
+## 개발자
+-Project 4bit
+팀장 : 이중호, 홍다경
+팀원 : 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjgzMjIzMCwtMjA0Nzg2OTI1NSwxMD
+eyJoaXN0b3J5IjpbMTAwOTU2OTY5OSwtMjA0Nzg2OTI1NSwxMD
 kyNTg4NjAsLTE3OTQxMTE2NDUsMjEyNDk2ODY5NywtNDE2MTU1
 Nzc5LC0xOTc1OTc5NTk3XX0=
 -->
