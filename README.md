@@ -49,9 +49,14 @@ Project 4bit
 ![enter image description here](https://lh3.googleusercontent.com/heM1JXUFY4XuhaWoXqFS0GQLdfRKMBNgMJsmhGSy68gWSoT3sb67SDWObQalTTWmP-DV2ULRl2A "메인-하")
 
 ![enter image description here](https://lh3.googleusercontent.com/i4OZLdcxHMwH8lEqaXoDR3sgatS1zU_5zKpqI8EwLAEQ1G4A8ebkdL7CgkMH8TrTxieFXgDebYs "내정보")
+![enter image description here](https://lh3.googleusercontent.com/S_-91KZChcK_FbF5n4f7T-CxrKxjS7nh1M-RfdK2TT6WAD5cjj4TMEi7TPnx1oXRFGMCZ1x5nls "포인트")
+
+![enter image description here](https://lh3.googleusercontent.com/jZK9yFyszi6KXLhHvyuYLM1IHCHMs49yGA0rraT31Iq_Di3kadVVHr9X7SQF0X202HgiiiSFu-8 "출석")
+
+![enter image description here](https://lh3.googleusercontent.com/Vz-y07GvVrWxCJ0oymLB64IX23vRc0HIlnNDcymmemkUqzFAtCSuOArv6FXXA9zbGpu9SdSQK_g "게시판리스트")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTcxOTU1OCwtNTE5MDQ1MTgzLC0yMD
-Q3ODY5MjU1LDEwOTI1ODg2MCwtMTc5NDExMTY0NSwyMTI0OTY4
-Njk3LC00MTYxNTU3NzksLTE5NzU5Nzk1OTddfQ==
+eyJoaXN0b3J5IjpbLTEwODA1ODY2MzIsLTUxOTA0NTE4MywtMj
+A0Nzg2OTI1NSwxMDkyNTg4NjAsLTE3OTQxMTE2NDUsMjEyNDk2
+ODY5NywtNDE2MTU1Nzc5LC0xOTc1OTc5NTk3XX0=
 -->
