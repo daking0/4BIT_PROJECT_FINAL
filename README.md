@@ -55,8 +55,10 @@ Project 4bit
 
 ![enter image description here](https://lh3.googleusercontent.com/Vz-y07GvVrWxCJ0oymLB64IX23vRc0HIlnNDcymmemkUqzFAtCSuOArv6FXXA9zbGpu9SdSQK_g "게시판리스트")
 
+![enter image description here](https://lh3.googleusercontent.com/F3LByHW7zU1e-gKzLDsvFh8BWWOnBLsGBIIYpTHZEkfC_XMr31dX4j0bZ5rXUvFtAvGjSHHCzRo "게시판내용")
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA1ODY2MzIsLTUxOTA0NTE4MywtMj
-A0Nzg2OTI1NSwxMDkyNTg4NjAsLTE3OTQxMTE2NDUsMjEyNDk2
-ODY5NywtNDE2MTU1Nzc5LC0xOTc1OTc5NTk3XX0=
+eyJoaXN0b3J5IjpbMTIxMzIwODM3NCwtNTE5MDQ1MTgzLC0yMD
+Q3ODY5MjU1LDEwOTI1ODg2MCwtMTc5NDExMTY0NSwyMTI0OTY4
+Njk3LC00MTYxNTU3NzksLTE5NzU5Nzk1OTddfQ==
 -->
