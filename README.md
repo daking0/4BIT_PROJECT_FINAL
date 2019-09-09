@@ -6,8 +6,12 @@
  교육용 포털 사이트 입니다.
  - 주요 기능
 	-ㅇㅇㅇ
+	1.마이페이지
+	-출석 리스트, 포인트 리스트, 개인정보 수정
+	2.
+	-전체 공지, 취업 공지, 프로젝트 영상
+	3.
 	-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODYzNDMzXX0=
+eyJoaXN0b3J5IjpbODM3MjQ1NTEwXX0=
 -->
