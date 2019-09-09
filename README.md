@@ -10,7 +10,10 @@
 
 ## 주요 기능
 
-	**학생**
+	
+
+> 학생
+
 	1.마이페이지
 	-출석 리스트, 포인트 리스트, 개인정보 수정
 	2.공지
@@ -20,10 +23,13 @@
 	4.학습
 	-지난 시험 확인, 지난 과제 확인, 로드맵
 	
-	**선생님**
+	
+
+> 선생님
+
 	-시험, 과제 출제 및 관리
 	-학생 현황 관리
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkxODg1NTIsLTQxNjE1NTc3OSwtMT
+eyJoaXN0b3J5IjpbLTIwMzQ2NTcwNjgsLTQxNjE1NTc3OSwtMT
 k3NTk3OTU5N119
 -->
